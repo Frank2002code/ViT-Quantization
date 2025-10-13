@@ -1,2 +1,8 @@
 .DS_Store
 data/*
+
+# 實驗室量化檔案
+*.v
+*.docx
+*.pptx
+*.zip
